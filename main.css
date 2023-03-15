@@ -171,9 +171,14 @@ button:hover{
     }
 
     
-  .subscription li{
-    font-size: 1rem;
-  }
+    .subscription .txtbld{
+        color: hsl(223, 47%, 23%);
+        font-size: 0.7rem;
+      }
+
+      .subscription .txtdull{
+       padding-left: 0.5em;
+      }
 
 .subscription span{
     font-size: 0.9rem;
@@ -186,3 +191,13 @@ button{
 
     
 }
+
+
+
+
+
+
+
+
+
+
