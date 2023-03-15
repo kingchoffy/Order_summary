@@ -40,12 +40,9 @@
     text-align: center;
     margin: 0 auto;
     width: 100%;
+    min-height: 100vh;
   }
-
-.container{
-    height: 100vh;
-}
-
+  
   .wrapper{
     border: 1px solid hsl(225, 100%, 94%);
     margin: 1em auto;
@@ -191,8 +188,6 @@ button{
 
     
 }
-
-
 
 
 
